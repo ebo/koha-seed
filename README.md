@@ -1,2 +1,2 @@
-# koha-seed-library
-A Koha Library version configured for Seed Libraries
+# koha-seed
+Notes for setting up and configuring a Koha Library for Seed Libraries
